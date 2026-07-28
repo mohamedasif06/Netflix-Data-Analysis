@@ -10,7 +10,7 @@ The analysis focuses on identifying content trends, top-performing genres, count
 
 ## 📊 Dashboard
 
-![Netflix Dashboard](images/netflix_dashboard.png)
+![Netflix Dashboard](Netflix%20Data%20Analysis%20Dashboard%20final.png)
 
 ---
 
